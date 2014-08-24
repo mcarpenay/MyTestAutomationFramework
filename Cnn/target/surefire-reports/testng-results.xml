@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Cnn news media company" duration-ms="42071" started-at="2014-08-24T19:27:30Z" finished-at="2014-08-24T19:28:12Z">
+    <groups>
+    </groups>
+    <test name="Cnn Navigation tab" duration-ms="42071" started-at="2014-08-24T19:27:30Z" finished-at="2014-08-24T19:28:12Z">
+      <class name="home.Search">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:home.Search@6a790e37]" name="setUp" is-config="true" duration-ms="20747" started-at="2014-08-24T15:27:30Z" finished-at="2014-08-24T15:27:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchBox()[pri:0, instance:home.Search@6a790e37]" name="searchBox" duration-ms="20704" started-at="2014-08-24T15:27:51Z" finished-at="2014-08-24T15:28:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBox -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:home.Search@6a790e37]" name="tearDown" is-config="true" duration-ms="591" started-at="2014-08-24T15:28:12Z" finished-at="2014-08-24T15:28:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- home.Search -->
+    </test> <!-- Cnn Navigation tab -->
+  </suite> <!-- Cnn news media company -->
+</testng-results>
